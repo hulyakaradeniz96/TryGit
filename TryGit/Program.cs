@@ -8,3 +8,7 @@ int Topla(int a, int b)
 {
     return a + b;
 }
+int Cikar(int a, int b)
+{
+    return a - b;
+}
